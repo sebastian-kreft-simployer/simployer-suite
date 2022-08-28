@@ -1,0 +1,20 @@
+{
+  "name": "@backlight-dev/caption-drive-c917c.figma-tokens-l7cg81is",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve mpw4XEdThXDNurpVGyng --open"
+  },
+  "devDependencies": {
+    "@divriots/dockit-core": "^0.9.4",
+    "lit": "^2.2.2",
+    "@open-wc/testing": "^3.1.6",
+    "sinon": "^14.0.0",
+    "@types/mocha": "^9.1.1",
+    "@types/sinon": "^14.0.0"
+  },
+  "dependencies": {}
+}

@@ -1,0 +1,30 @@
+{
+ "packages": {
+  "dir": "",
+  "menu": [
+   [
+    "TOKENS",
+    [
+     "color",
+     "tokens"
+    ]
+   ],
+   [
+    "COMPONENTS",
+    [
+     "button",
+     "checkbox",
+     "checkbox",
+     "button-round"
+    ]
+   ],
+   [
+    "INFRASTRUCTURE",
+    [
+     "doc-layout",
+     "sd-input"
+    ]
+   ]
+  ]
+ }
+}
